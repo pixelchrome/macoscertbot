@@ -52,7 +52,7 @@ Entry point: webroot = certbot.plugins.webroot:Authenticator
 
 ## Clone this repository
 ```sh
-$ git clone
+$ git clone https://github.com/pixelchrome/macoscertbot.git
 ```
 
 ## Configuration
