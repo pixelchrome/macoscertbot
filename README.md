@@ -1,3 +1,7 @@
+# Apple has discontinued macOS Server https://support.apple.com/en-us/HT208312
+
+I'm archiving this repo...
+
 # Using letsencrypt with macOS Server (and cloudflare-dns)
 
 Even with all the [restrictions](https://support.apple.com/en-us/HT208312) of today some people need to run macOS Server (mojave 5.7.1).
